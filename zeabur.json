@@ -13,7 +13,7 @@
       "ports": [
         {
           "id": "web",
-          "port": 8000,
+          "port": 8080,
           "type": "HTTP"
         }
       ]
